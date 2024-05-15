@@ -1,2 +1,1 @@
-# octopus
-Cooked octopus 
+Purple octopus  
